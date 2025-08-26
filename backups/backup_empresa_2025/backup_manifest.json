@@ -1,0 +1,13 @@
+{
+  "backup_name": "backup_empresa_2025",
+  "source_path": "C:\\Users\\HP\\Documents\\uniandes\\septimo\\SEGURIDAD INFORM\u00c1TICA\\sistema-seguridad\\datos_empresa",
+  "created": "2025-08-26T10:58:16.049527",
+  "files_count": 4,
+  "encrypted_files": [
+    "backups\\backup_empresa_2025\\datos_empresa\\bd_empleados.json.enc",
+    "backups\\backup_empresa_2025\\datos_empresa\\confidencial.txt.enc",
+    "backups\\backup_empresa_2025\\datos_empresa\\config.ini.enc",
+    "backups\\backup_empresa_2025\\datos_empresa\\reporte_2025.txt.enc"
+  ],
+  "backup_type": "directory"
+}

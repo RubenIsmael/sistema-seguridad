@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Ana García",
+      "cargo": "CEO",
+      "salario": 120000
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos López",
+      "cargo": "CTO",
+      "salario": 95000
+    },
+    {
+      "id": 3,
+      "nombre": "María Rodríguez",
+      "cargo": "CFO",
+      "salario": 110000
+    }
+  ],
+  "configuracion": {
+    "servidor_db": "192.168.1.100",
+    "puerto": 5432,
+    "api_key": "sk-1234567890abcdef",
+    "secret_token": "token_super_secreto_2025"
+  }
+}

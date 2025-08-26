@@ -1,0 +1,16 @@
+DOCUMENTO CONFIDENCIAL - SISTEMA DE SEGURIDAD
+
+Este es un archivo de prueba que contiene información sensible:
+
+1. Datos personales de empleados
+2. Información financiera de la empresa
+3. Claves de acceso y configuraciones
+4. Reportes de seguridad internos
+
+⚠️  ACCESO RESTRINGIDO - SOLO PERSONAL AUTORIZADO ⚠️
+
+El contenido de este documento está protegido por el sistema de 
+cifrado AES-256 con verificación de integridad SHA-256.
+
+Fecha: 2025
+Sistema: Demostración de Seguridad Informática

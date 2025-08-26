@@ -1,0 +1,8 @@
+{
+  "encrypted_data": "XL1eDGtezMK1giTSufxEn56B1EOwOYKUntjqOSXrVSzQbmLFzWQVDQZfy3EDXTKr",
+  "iv": "qyRunjF0or50Ol0tPv1R2g==",
+  "original_hash": "209435c1234230804948296f5a9c411167ab6e37e6185e543089e39d80b1dfef",
+  "algorithm": "AES-256-CBC",
+  "timestamp": "2025-08-26T10:58:15.994005",
+  "size": 37
+}
